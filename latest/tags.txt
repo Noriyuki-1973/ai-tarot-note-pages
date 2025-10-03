@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
+The Sun
+Temperance
 Hanged Man
-The Emperor
-Judgement
-金運
+仕事運
