@@ -1,42 +1,34 @@
-<!doctype html>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Note Assets Archive</title>
-<style>
-:root{--fg:#111827;--muted:#6b7280;--card:#ffffff;--bd:#e5e7eb;--bg:#f8fafc}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Helvetica Neue","Hiragino Kaku Gothic ProN",Meiryo,sans-serif}
-header{padding:20px 16px;background:#0b1b2b;color:#fff}
-header .wrap{max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-between}
-a{color:#0366d6;text-decoration:none}
-main{max-width:1000px;margin:24px auto;padding:0 16px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
-.thumb{aspect-ratio:1200/630;background:#111;display:block}
-.thumb img{width:100%;height:100%;object-fit:cover;display:block}
-.meta{padding:12px}
-.date{font-weight:700;margin:0 0 6px}
-.tt{font-size:14px;color:var(--fg);margin:0 0 6px}
-.tg{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.section{margin:28px 0 8px;font-size:18px;color:#111}
-.foot{color:var(--muted);font-size:12px;margin-top:24px}
-.btn{display:inline-block;padding:8px 12px;border:1px solid var(--bd);border-radius:8px;background:#fff}
-</style>
-<header><div class="wrap">
-  <h1 style="margin:0;font-size:18px">Note Assets Archive</h1>
-  <a class="btn" href="./latest/">Latest</a>
-</div></header>
-<main>
-<h2 class="section">2025-10</h2>
-<div class="grid">
-<a class="card" href="./2025-10-03/">
-  <div class="thumb"><img src="./2025-10-03/cover_2025-10-03.png" alt="2025-10-03"></div>
-  <div class="meta">
-    <p class="date">2025-10-03</p>
-    <p class="tt">2025-10-03のAIタロット｜金運が追い風（フラット）｜Hanged Man(逆)・The Emperor・Judgement</p>
-    <p class="tg">占い タロット AI占い 今日の運勢 Hanged Man The Emperor Judgement 金運</p>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Note Assets Archive</title>
+  <style>
+    body { font-family: sans-serif; background: #f4f5f7; margin: 0; padding: 0; }
+    header { background: #0b1b2b; color: #fff; padding: 1em; }
+    .container { padding: 2em; }
+    .card {
+      background: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+      margin: 1em 0; overflow: hidden; max-width: 420px;
+    }
+    .cover-image { width: 100%; display: block; }
+    .meta { padding: 1em; }
+    .date { font-weight: bold; color: #0044cc; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Note Assets Archive</h1>
+    <a href="latest/index.html" style="color:#fff; float:right;">Latest</a>
+  </header>
+  <div class="container">
+    <div class="card">
+      <img src="latest/cover.png" alt="cover" class="cover-image">
+      <div class="meta">
+        <div class="date">最新: $DATE</div>
+        <a href="latest/index.html">Go to latest</a>
+      </div>
+    </div>
   </div>
-</a>
-</div>
-  <p class="foot">※ クリックで当日のページへ。Latest には直近の出力をコピーしています。</p>
-</main>
+</body>
+</html>
