@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Moon
-The Star
-The Lovers
-仕事運
+The World
+The Emperor
+The Empress
+恋愛運
