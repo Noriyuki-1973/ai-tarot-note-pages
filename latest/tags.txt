@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Sun
-The Magician
-Temperance
-恋愛運
+The Devil
+The Empress
+The Emperor
+仕事運
