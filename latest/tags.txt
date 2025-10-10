@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
-The Empress
-The Emperor
-仕事運
+The Fool
+The World
+Death
+健康運
