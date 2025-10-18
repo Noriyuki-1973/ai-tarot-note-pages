@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Magician
-The Sun
-Strength
+The Chariot
+The Tower
+The Hierophant
 金運
