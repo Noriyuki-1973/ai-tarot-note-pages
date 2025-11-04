@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The World
-Hanged Man
-The Empress
-恋愛運
+The Emperor
+The Lovers
+Temperance
+仕事運
