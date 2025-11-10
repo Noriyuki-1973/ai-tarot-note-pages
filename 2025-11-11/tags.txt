@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Wheel of Fortune
-The Fool
+The World
 The Magician
-健康運
+The Star
+仕事運
