@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
-The Lovers
+The Hierophant
 Temperance
-金運
+The Magician
+健康運
