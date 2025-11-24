@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Tower
-The Hermit
-The Hierophant
-仕事運
+The Fool
+The World
+Hanged Man
+恋愛運
