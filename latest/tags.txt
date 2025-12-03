@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Tower
-The Devil
-The World
-健康運
+The Sun
+Justice
+The Fool
+恋愛運
