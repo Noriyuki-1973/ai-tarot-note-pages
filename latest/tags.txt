@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Sun
-Justice
-The Fool
+Temperance
+The Moon
+The Empress
 恋愛運
