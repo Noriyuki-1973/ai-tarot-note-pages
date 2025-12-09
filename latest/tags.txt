@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Wheel of Fortune
-The Magician
-The Lovers
+The Hermit
+The Tower
+The Devil
 仕事運
