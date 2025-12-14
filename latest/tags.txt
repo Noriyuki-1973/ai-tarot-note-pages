@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
-The Emperor
+Judgement
+The Hermit
 The Sun
-恋愛運
+金運
