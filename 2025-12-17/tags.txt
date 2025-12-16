@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The High Priestess
+Hanged Man
+Temperance
 The Hermit
-The Emperor
-金運
+仕事運
