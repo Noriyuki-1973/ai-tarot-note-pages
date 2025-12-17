@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Hanged Man
-Temperance
-The Hermit
-仕事運
+The Chariot
+The Star
+The Lovers
+健康運
