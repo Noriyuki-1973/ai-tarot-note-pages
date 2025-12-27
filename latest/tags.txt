@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
+Judgement
+Hanged Man
 The High Priestess
-The Star
-恋愛運
+金運
