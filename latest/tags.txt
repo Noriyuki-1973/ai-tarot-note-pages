@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Judgement
-Hanged Man
-The High Priestess
+Death
+The Empress
+The Hermit
 金運
