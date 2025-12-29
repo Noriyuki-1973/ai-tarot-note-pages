@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Death
-The Empress
-The Hermit
+The Tower
+The Lovers
+The High Priestess
 金運
