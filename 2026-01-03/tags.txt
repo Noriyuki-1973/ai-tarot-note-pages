@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The World
-The Fool
-The Devil
-恋愛運
+The Moon
+The Hermit
+The Magician
+健康運
