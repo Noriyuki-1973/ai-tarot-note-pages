@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Hierophant
-The Magician
-Death
+Temperance
+The Chariot
+The Devil
 仕事運
