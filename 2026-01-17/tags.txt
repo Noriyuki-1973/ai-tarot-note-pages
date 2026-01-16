@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Chariot
-The Moon
-The Hierophant
-金運
+Hanged Man
+The Devil
+Death
+恋愛運
