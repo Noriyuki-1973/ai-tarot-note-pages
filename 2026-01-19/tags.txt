@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Chariot
-The Devil
-Justice
+Temperance
+The Fool
+Wheel of Fortune
 恋愛運
