@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
 The Tower
-The Star
+The Lovers
+Judgement
 恋愛運
