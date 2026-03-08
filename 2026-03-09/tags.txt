@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Hierophant
 The Lovers
-The Empress
-恋愛運
+The Tower
+Wheel of Fortune
+健康運
