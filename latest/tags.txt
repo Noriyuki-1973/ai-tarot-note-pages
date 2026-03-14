@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Lovers
-The Hermit
+Judgement
 Strength
-恋愛運
+The Chariot
+健康運
