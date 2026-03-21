@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
-The Chariot
 The Star
-仕事運
+Temperance
+The Magician
+健康運
