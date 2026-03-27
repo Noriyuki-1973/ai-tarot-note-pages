@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Empress
-Death
-The Devil
-金運
+The Sun
+The Hierophant
+The Hermit
+健康運
