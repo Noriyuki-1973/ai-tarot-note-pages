@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Sun
+The Emperor
+The Fool
 The Hierophant
-The Hermit
-健康運
+金運
