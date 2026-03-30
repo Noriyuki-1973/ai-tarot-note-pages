@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Star
-The Emperor
-Strength
-健康運
+Judgement
+The Tower
+Justice
+恋愛運
