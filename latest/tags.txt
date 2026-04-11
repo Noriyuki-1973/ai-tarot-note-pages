@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Moon
-Judgement
-The Devil
-金運
+The Sun
+The Hermit
+The World
+健康運
