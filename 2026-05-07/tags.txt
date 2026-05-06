@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
-The Hierophant
-Temperance
+The Fool
+The Emperor
+The Moon
 恋愛運
