@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
 The Tower
-Hanged Man
-仕事運
+The Star
+The Hierophant
+恋愛運
