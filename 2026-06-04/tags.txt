@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The High Priestess
-The Hermit
-The Emperor
+The Chariot
+Death
+The Moon
 仕事運
