@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Lovers
-The Magician
-Hanged Man
-仕事運
+Justice
+Judgement
+Temperance
+健康運
