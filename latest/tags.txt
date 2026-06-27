@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Chariot
 Wheel of Fortune
-The High Priestess
-金運
+The Tower
+The Sun
+恋愛運
