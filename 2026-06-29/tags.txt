@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Wheel of Fortune
-The Tower
-The Sun
+The Moon
+The Magician
+Justice
 恋愛運
