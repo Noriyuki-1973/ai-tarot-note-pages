@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Sun
-The Magician
-The Lovers
-金運
+Temperance
+The Hierophant
+The World
+恋愛運
