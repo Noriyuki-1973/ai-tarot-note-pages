@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Star
-The Chariot
-The Hermit
+The Tower
+The Moon
+The Lovers
 仕事運
