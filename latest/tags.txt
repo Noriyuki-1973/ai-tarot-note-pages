@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Star
-Temperance
-Hanged Man
+The Hermit
+Wheel of Fortune
+Justice
 仕事運
