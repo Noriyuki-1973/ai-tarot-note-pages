@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Lovers
-The Hermit
-Death
+The Emperor
+The Sun
+The Chariot
 恋愛運
