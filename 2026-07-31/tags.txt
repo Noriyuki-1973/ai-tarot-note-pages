@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
-The Sun
-The Chariot
-恋愛運
+The World
+The Fool
+Judgement
+仕事運
