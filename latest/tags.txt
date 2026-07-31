@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The World
-The Fool
-Judgement
-仕事運
+The Sun
+Temperance
+The Lovers
+恋愛運
