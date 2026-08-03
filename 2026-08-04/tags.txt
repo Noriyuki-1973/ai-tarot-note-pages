@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Hanged Man
-Wheel of Fortune
-The Empress
+The Magician
+The Moon
+Death
 仕事運
