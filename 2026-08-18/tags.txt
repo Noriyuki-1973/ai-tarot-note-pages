@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Hierophant
-The Star
-Judgement
-恋愛運
+The Fool
+The World
+The High Priestess
+金運
