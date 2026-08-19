@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
+Temperance
+The Devil
 Justice
-Strength
-仕事運
+恋愛運
