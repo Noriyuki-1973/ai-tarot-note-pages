@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The High Priestess
-The Lovers
+The Emperor
 The Empress
-金運
+The Moon
+恋愛運
