@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
-The Tower
-Judgement
+The Devil
+The Fool
+The Hermit
 金運
