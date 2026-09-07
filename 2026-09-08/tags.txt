@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Fool
-The Moon
 The Tower
-恋愛運
+The Lovers
+The Fool
+仕事運
