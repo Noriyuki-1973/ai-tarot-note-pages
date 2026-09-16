@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Chariot
-The Star
-The World
+Judgement
+The Hierophant
+Justice
 恋愛運
