@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Lovers
-The Star
-The Moon
-恋愛運
+Hanged Man
+The Empress
+Judgement
+健康運
