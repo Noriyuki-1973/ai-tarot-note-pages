@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Devil
-Wheel of Fortune
-The Empress
-恋愛運
+The Fool
+The Magician
+Justice
+仕事運
