@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
+The Sun
 The Moon
-The World
-Temperance
-金運
+The Emperor
+恋愛運
