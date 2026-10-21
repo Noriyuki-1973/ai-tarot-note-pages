@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Star
-The Fool
-The Sun
-恋愛運
+Temperance
+Strength
+The Hermit
+健康運
