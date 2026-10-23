@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Judgement
-The Tower
-The Fool
-恋愛運
+The Magician
+The Devil
+The High Priestess
+金運
