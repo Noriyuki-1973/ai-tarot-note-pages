@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Tower
-The Lovers
-The Star
+The World
+Justice
+Temperance
 仕事運
