@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Lovers
-Temperance
-Judgement
+The Empress
+The Tower
+Justice
 恋愛運
