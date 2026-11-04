@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Hermit
+Temperance
+The Hierophant
 Judgement
-The High Priestess
-健康運
+恋愛運
