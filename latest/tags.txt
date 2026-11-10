@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Hanged Man
-The Magician
-The Hermit
-仕事運
+The Hierophant
+Justice
+Wheel of Fortune
+健康運
