@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-Death
-The World
-The Star
-恋愛運
+Judgement
+The Hierophant
+The Devil
+仕事運
