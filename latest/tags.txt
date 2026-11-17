@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Empress
-Death
-Judgement
-恋愛運
+The Sun
+The Magician
+The Hierophant
+健康運
