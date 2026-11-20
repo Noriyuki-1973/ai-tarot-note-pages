@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
-The Tower
+The Fool
+The Empress
 The Moon
-恋愛運
+仕事運
