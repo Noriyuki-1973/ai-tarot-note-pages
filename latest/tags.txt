@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Fool
-Hanged Man
+The Emperor
+The Empress
 Wheel of Fortune
-仕事運
+金運
