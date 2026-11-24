@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Emperor
-The Empress
-Wheel of Fortune
-金運
+The Lovers
+Hanged Man
+The Star
+健康運
