@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Moon
-Judgement
-The High Priestess
-健康運
+The Hermit
+The Chariot
+The Fool
+仕事運
