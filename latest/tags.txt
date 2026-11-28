@@ -2,7 +2,7 @@
 タロット
 AI占い
 今日の運勢
-The Hermit
 The Chariot
-The Fool
-仕事運
+The World
+Justice
+健康運
